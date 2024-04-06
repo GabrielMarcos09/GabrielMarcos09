@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Técnico em Informática recém formado, atualmente estou cursando o segundo período em Ciência da Computação
+Me chamo Gabriel, tenho 20 anos, sou Técnico em Informática recém formado e atualmente estou cursando o segundo período em Ciência da Computação.
 
 
 ## 🌐 Socials:
